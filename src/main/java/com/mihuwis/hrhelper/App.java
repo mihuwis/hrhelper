@@ -1,10 +1,14 @@
 package com.mihuwis.hrhelper;
 
 
-public class App 
-{
-    public static void main( String[] args )
-    {
+import com.mihuwis.hrhelper.controlers.MainControler;
 
+public class App
+{
+    public static void main( String[] args ) {
+
+        MainControler mainControler = new MainControler();
+
+        mainControler.runMenu();
     }
 }
