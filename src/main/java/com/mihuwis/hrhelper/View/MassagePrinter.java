@@ -1,6 +1,6 @@
 package com.mihuwis.hrhelper.View;
 
-public class Printer {
+public class MassagePrinter {
 
     public void printMenuOptions() {
         System.out.println("Menu: \n1. Print all Users of one type:\n" +
@@ -9,5 +9,5 @@ public class Printer {
                 "4. Remove user by Id number");
     }
 
-    public void
+//    public void
 }
