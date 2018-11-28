@@ -1,1 +1,14 @@
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/controlers/queries/QueryBulider.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/UsersDAO/ApplicantsDAO.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/View/MassagePrinter.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/model/Mentor.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/View/InputCollector.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/View/OutputPrinter.java
 /home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/App.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/dbconection/ConnectionDataParser.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/controlers/MainControler.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/model/Applicant.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/model/User.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/UsersDAO/MentorsDAO.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/UsersDAO/UsersDAO.java
+/home/mihu/codecool/sql_java/HRhelper/hrhelper/src/main/java/com/mihuwis/hrhelper/dbconection/DBconector.java

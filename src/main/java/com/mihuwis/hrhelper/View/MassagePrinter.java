@@ -24,4 +24,8 @@ public class MassagePrinter {
     public void sayGoodBy() {
         System.out.println("Thank you for using HR Helper!\n\t_______BYE________");
     }
+
+    public void wrongNumberMassage(){
+        System.out.println("Please enter correct number");
+    }
 }

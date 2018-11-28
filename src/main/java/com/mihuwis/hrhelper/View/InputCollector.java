@@ -18,4 +18,10 @@ public class InputCollector {
 
         return number;
     }
+
+    public String readStringFromUSer(){
+        Scanner sc = new Scanner(System.in);
+
+        return null;
+    }
 }
